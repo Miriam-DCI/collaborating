@@ -54,7 +54,6 @@ essen
 ##### Kommentar von Melisa: das hört sich lecker an! :D 
 
 
-
 ## Wortdefinition:
 
 Verstand als Fähigkeit des Menschen
@@ -62,5 +61,13 @@ Verstand als Fähigkeit des Menschen
 Das leistet der Verstand in seiner Zweckbestimmung oder vielmehr (nach Kant) durch sein Vermögen, 
 Vorstellungen hervorzubringen und den Gegenstand der sinnlichen Anschauung zu denken.
 
+Das leistet der Verstand in seiner Zweckbestimmung oder vielmehr (nach Kant) durch sein Vermögen, 
+Vorstellungen hervorzubringen und den Gegenstand der sinnlichen Anschauung zu denken.
+
 ##### Manche Leute haben's einfach nicht, it is what it is.
 
+## Ergänzung zum weiter Üben
+wir testen weiter weil es so schön war und um mehr übung zu bekommen
+das wetter heute ist sehr schön nur zu warm
+ich vergesse heute viel zu häufig meinen ornder mit cd zu wechseln oder darauf zu 
+achten mit dem richtigen branch angemeldet zu sein
