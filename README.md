@@ -11,3 +11,12 @@
 
 - Then, both of you make a pull request for your branches and assign the other person.
 - Once you have reviewed each other's work, merge the branches to the main.
+
+
+
+Moin 
+- Miriam
+-25 Jahre alt
+- komme aus Hamburg
+- mag Technik besonders IT
+
