@@ -12,8 +12,8 @@
 - Then, both of you make a pull request for your branches and assign the other person.
 - Once you have reviewed each other's work, merge the branches to the main.
 
-melisa
-## x Mein Name ist Melisa, bin 30 Jahre alt und komme aus Österreich. Ich habe einen Hund, der nicht beißt, er will nur spielen.
+
+## x Mein Name ist Melisa, bin 30 Jahre alt und komme ursprünglich aus Österreich. Ich habe einen Hund, der nicht beißt, er will nur spielen.
 
 ## x Mein Lieblingsgericht ist Spaghetti Bolognese, hier ein Rezept:
 ### - Zutaten für die Bolognese:
@@ -51,13 +51,23 @@ gemüse schneiden (gemüse nach wahl)
 pesto zu den nudeln in ne schüssel geben
 gemüse dazu 
 essen 
-
+##### Kommentar von Melisa: das hört sich lecker an! :D 
 
 
 ## Wortdefinition:
 
 Verstand als Fähigkeit des Menschen
+
 Das leistet der Verstand in seiner Zweckbestimmung oder vielmehr (nach Kant) durch sein Vermögen, 
 Vorstellungen hervorzubringen und den Gegenstand der sinnlichen Anschauung zu denken.
 
- Miriam
+Das leistet der Verstand in seiner Zweckbestimmung oder vielmehr (nach Kant) durch sein Vermögen, 
+Vorstellungen hervorzubringen und den Gegenstand der sinnlichen Anschauung zu denken.
+
+##### Manche Leute haben's einfach nicht, it is what it is.
+
+## Ergänzung zum weiter Üben
+wir testen weiter weil es so schön war und um mehr übung zu bekommen
+das wetter heute ist sehr schön nur zu warm
+ich vergesse heute viel zu häufig meinen ornder mit cd zu wechseln oder darauf zu 
+achten mit dem richtigen branch angemeldet zu sein
