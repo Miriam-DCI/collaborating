@@ -13,10 +13,25 @@
 - Once you have reviewed each other's work, merge the branches to the main.
 
 
-
+## Bio
 Moin 
 - Miriam
 -25 Jahre alt
 - komme aus Hamburg
 - mag Technik besonders IT
+
+## Rezept
+nudeln mit Pesto
+nudeln kochen 
+gemüse schneiden (gemüse nach wahl)
+pesto zu den nudeln in ne schüssel geben
+gemüse dazu 
+essen 
+
+
+
+## Wortdefinition:
+
+Verstand als Fähigkeit des Menschen
+Das leistet der Verstand in seiner Zweckbestimmung oder vielmehr (nach Kant) durch sein Vermögen, Vorstellungen hervorzubringen und den Gegenstand der sinnlichen Anschauung zu denken.
 
