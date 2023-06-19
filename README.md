@@ -11,3 +11,26 @@
 
 - Then, both of you make a pull request for your branches and assign the other person.
 - Once you have reviewed each other's work, merge the branches to the main.
+
+## x Mein Name ist Melisa, bin 30 Jahre alt und komme aus Österreich. Ich habe einen Hund, der nicht beißt, er will nur spielen.
+
+## x Mein Lieblingsgericht ist Spaghetti Bolognese, hier ein Rezept:
+### - Zutaten für die Bolognese:
+- 1 	Stk 	Zwiebel
+- 2 	Stk 	Knoblauchzehen
+- 1 	Stk 	Karotte
+- 1 	EL 	Petersilie
+- 1 	EL 	Olivenöl für den Topf
+- 350 	g 	Faschiertes (Rindfleisch)
+- 400 	g 	Tomatensauce
+- 2 	EL 	Oregano
+- 2 	EL 	Rotwein
+- 2 	EL 	Tomatenmark
+- 1 	Prise 	Salz
+- 1 	Prise 	Pfeffer
+### - Zutaten für die Spaghetti:
+ - 370 	g 	Spaghetti
+ - 4 	l 	Salzwasser 
+
+## x Was ist Salz?
+- aus der Erde oder dem Wasser des Meeres gewonnene weiße, körnige Substanz
